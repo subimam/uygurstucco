@@ -1,0 +1,8 @@
+node_modules
+.git
+.wrangler
+generate-images.mjs
+package.json
+package-lock.json
+.gitignore
+.assetsignore
