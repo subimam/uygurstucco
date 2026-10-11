@@ -1,0 +1,2114 @@
+{
+  "hero": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAAAQBgCdASoYACAAPu1epk6ppKMiMBgMATAdiWwAnTLVOY7WvNAR0wAz6edei9EmXebed5WnJ+gvzSAA98qJzv8c+RNLxpsBXaJZ1Y45OPl7lXQyFE044W1cTe4LP1SqCN+EaKYdr06gXDNuAvrhAkb0gwHSfy+rwxZCpcTmrNVd06LsD3GzSuxSE8tcENWrCvr7IjXxCtZUzu0Arhp/Robfpy6RMUBD1ex4Iieu0q0NIk8OxWpIGz8u7zBo3ogeJ2zP8th4JSwAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/hero-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/hero-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/hero-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/hero-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/hero-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/hero-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/hero-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/hero-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/hero-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/hero-1200.webp"
+  },
+  "Project 1/cover": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAAAQBgCdASoYACAAPu1epk6ppKMiMBgMATAdiWwAnTLVOY7WvNAR0wAz6edei9EmXebed5WnJ+gvzSAA98qJzv8c+RNLxpsBXaJZ1Y45OPl7lXQyFE044W1cTe4LP1SqCN+EaKYdr06gXDNuAvrhAkb0gwHSfy+rwxZCpcTmrNVd06LsD3GzSuxSE8tcENWrCvr7IjXxCtZUzu0Arhp/Robfpy6RMUBD1ex4Iieu0q0NIk8OxWpIGz8u7zBo3ogeJ2zP8th4JSwAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/cover-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/cover-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/cover-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 1/cover-1200.webp"
+  },
+  "Project 1/IMG_0689": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBQCdASoYACAAPu1srVEppiQiqAqpMB2JYwCo9DTeBobC4GrvJOUuey07lN7uSE9EkcoEPwAA/u+/oWl5iU/0jDb9tow+YO7kbyeSe0S9PFTOyb0ar0SFFZaKueB/s1hf9imah0DUupsvACS/Y1F93d6auvuHgAtMuQYz5bf3RjbJXosUHfKnsppi8Y6hb/vdhCwGmBavRIKx6Tym/AAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0689-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0689-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0689-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0689-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0689-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0689-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0689-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0689-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0689-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 1/IMG_0689-1200.webp"
+  },
+  "Project 1/IMG_0690": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQBQCdASoYACAAPu1qsFAppiSiqAqpMB2JZQDI1BEJ85BJDNqNN5tk1Pf9MhUkgyxotTwxWegAAP7zdKxfaGNfAq6I6goot4WH5X7N31n+oQtT6QM4asqWppdmWIBAyHjs4FGLK2M3GpSTY5yyCExN46Z38a5jjQ/9pGBmGeRwcSwI6G5z1RNzyvpuvjwFyqfkSztyjSbDkZiNxbB6jHsAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0690-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0690-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0690-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0690-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0690-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0690-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0690-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0690-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0690-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 1/IMG_0690-1200.webp"
+  },
+  "Project 1/IMG_0697": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACwBQCdASoYACAAPu1mq0+ppSOiMBgIATAdiUAWxo4AdYcmxRmzwcsffvAQgLkV111sjUBNk0AA+N/J+Ed5vBBy/kMXXPZ4ZyxtoSIMfl44Ze2ZjJibM+GRlFr1UNDINl2f18oWBja1FMetw+a9tGYJRyfd4CIUNpN8puA3Da5Ws5HglY/tewlbwOqL6RRxsVgiEVBHFC1j0t4MVtg00i9erimyRqz3KdTonT4LwOnHEcgA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0697-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0697-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0697-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0697-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0697-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0697-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_0697-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_0697-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_0697-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 1/IMG_0697-1200.webp"
+  },
+  "Project 1/IMG_2770": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBQCdASoYACAAPu1ur1KppiQiqAgBMB2JQBOnKCp4B2Z3Z8hkNTYdzvntkd6A6fvxrwbH5sAA/u/Nv7TtZpzAYmuq/ve3yYeOPuB70yviV3swzRFBs6HRBNLpJbvuZWZ4TGXD0ikVb2HIIB2zfMlkToDB4W4+xjToucAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_2770-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_2770-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_2770-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_2770-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_2770-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_2770-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 1/IMG_2770-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 1/IMG_2770-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 1/IMG_2770-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 1/IMG_2770-1200.webp"
+  },
+  "Project 2/cover": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwBQCdASoYACAAPu1qrVCppaQiqAqpMB2JQBOgAYoyb5L8UM0YJeQpMJIRfPbCEvoDgAD96w+q582EpZUr1Gl1X+ciOYz9zRerq7WLVNcHK+JnbtApoGo4EuyPTlwLyyQ/HElITRjXC79b13/j2JRMvPVpMn9QF+itzW2JhPjdDIJOndoatpBg2sykAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/cover-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/cover-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/cover-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 2/cover-1200.webp"
+  },
+  "Project 2/IMG_1060": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBQCdASoYACAAPtFWok2oJKMiN+gBABoJZQC4MDIXctF8zxknRTBohZqC0TGbQJ6/iwAA/u2B5ohpD+OsN2A70u5mfPGL6ArzewywuTCLu/R8CMOh8xO6h5qS0Hhp1PdfW+Z+XMoQvgcqqFbhvLhsFBiZj5Lg4q+N7JTttZdphI3eW/wXOMAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1060-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1060-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1060-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1060-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1060-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1060-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1060-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1060-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1060-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 2/IMG_1060-1200.webp"
+  },
+  "Project 2/IMG_1061": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBQCdASoYACAAPt1cpU2opSOiN/qoARAbiWUAtsgWB+DVS5XXHNliKhf0xSHYBRmywAD+34WjoFyxjKtZ83GXEt9DGT2GVRjYjistQjvfDdFtNdhQDB1EJxKeAM7XCnkNwDHLBDj3TYFe3PnIp0xpZ8VuEmCUUsnec2a8AAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1061-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1061-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1061-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1061-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1061-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1061-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1061-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1061-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1061-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 2/IMG_1061-1200.webp"
+  },
+  "Project 2/IMG_1074": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBQCdASoYACAAPu1wr1IppiQiqAgBMB2JQBOmUAAnU4s/71qBNiz1aB1H77ZXF3sjFoAA/LLLU4zdDIeaMz3dqO1aB6HWb/aVZv59c0p9CLtlAcPwNAqWrTJAYfT7GuqUAq8AZiQlwHPRaygO0K8YAmUkp4X/wkLs9qscjjYiNjR10Mui8SuCKYjrx5UAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1074-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1074-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1074-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1074-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1074-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1074-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1074-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1074-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1074-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 2/IMG_1074-1200.webp"
+  },
+  "Project 2/IMG_1122": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBQCdASoYACAAPu1qrVAppiQiqAqpMB2JagCdMxgBp+C2Nl2j4NsgziHlC4jOHJo2zgwA/hRuv+EOuzNlZvV0ioLpeDOsVuyIClpHG4giseSp05nnMvZjSWj4tFfHIa9F3f1kyrMPhuesBbUv6+nUTS5KSKztilbSgOVvu9lewlttwD6d23U/nDLPZxo0i74Y9XEBIER/ZWy1gc/ELWaznU0edxoUgAGsmPAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1122-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1122-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1122-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1122-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1122-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1122-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1122-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1122-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1122-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 2/IMG_1122-1200.webp"
+  },
+  "Project 2/IMG_1420": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBQCdASoYACAAPu1qrVCppaQiqAqpMB2JZQDE2DS2RMMOzmCP+sCcMo+DkR7UXvg7GcwAAP7qkUtZuweEdGYN31u7Fwxbz9vJEvUzyTrr27qMOXLdozyck4Oe9CvpOm4rkVxPG+Z7ij6fkllru3dPY8W6iPZUIy6QLNJftlBG0ylHqc3hJmfIE1XxlAAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1420-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1420-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1420-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1420-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1420-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1420-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 2/IMG_1420-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 2/IMG_1420-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 2/IMG_1420-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 2/IMG_1420-1200.webp"
+  },
+  "Project 3/cover": {
+    "width": 2048,
+    "height": 1536,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwBACdASoYABIAPu1sq1EppaOiqAqpMB2JZgCuHBF7UJf1j+xZdgl9cuDdKbiAAP4fr3/WugyWQx5p+1ubegKuL0VdneN+uNZrpeuT1XdslVaNqvVuXjeqsHbIQDl/Qz3tlEwAW6NSDbGvlVxs7eMjgHGsr9rg3D1Q2sxG/qklo79STtTA78N6AAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/cover-1200.avif"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 3/cover-2000.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/cover-1200.webp"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 3/cover-2000.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/cover-1200.jpg"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 3/cover-2000.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 3/cover-2000.webp"
+  },
+  "Project 3/IMG_1683": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBQCdASoYACAAPuFeqE2opSQiMAwBEBwJaACpIwABZtkZpUo6s2rtaDRLqHam2z2v6n8kAAD+LVzU5tfmH63C5WTwhOGJD7knxHXWuUvEOxbHUz6Z22jUfBS/kN0WOLV9Q2sD+NeDztnw+5fKmMgSMSt3n8EDM3vsTG7bSbHj+grY0VRBmOI+nNXF5XjQQ3AVSOXmnDq9oRHwtrq1VbgGhDvxx6AYf6H0hDfAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/IMG_1683-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/IMG_1683-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/IMG_1683-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/IMG_1683-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/IMG_1683-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/IMG_1683-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/IMG_1683-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/IMG_1683-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/IMG_1683-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 3/IMG_1683-1200.webp"
+  },
+  "Project 3/IMG_1688": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBQCdASoYACAAPu1sq1EppaOiqAqpMB2JZACdM2QBJjl/GYPOqmJYsxiQf5CuTzBoAI9eBgH0hn1Peizz3P1/221al+DevUX0CM/285nZvCAn07IBKBn9WCoK1wZOgt9vDi+P6CBrRtVTOoO9fezbNeuQ8sph8i+X+P3ESRfjClNgDbdnftT36cF9CR3v0eAAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/IMG_1688-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/IMG_1688-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/IMG_1688-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/IMG_1688-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/IMG_1688-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/IMG_1688-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 3/IMG_1688-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 3/IMG_1688-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 3/IMG_1688-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 3/IMG_1688-1200.webp"
+  },
+  "Project 4/cover": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADQBQCdASoYACAAPu1iqlAppSOisBgIATAdiWQAnTMExCAQCkRg2Oek6NaAK3So5+BkVgdvSOZ0AP6DLWM7eSwNWIS7w4sNNC10zWYlbVYDMqN8OqYbTJdi0IOMIaFT4y3NCMmuXFUtqJ0PvRT6ic7DkefZnf0nvhMK1d8qx7iPAU71e3XA/L/KLryA2lko7wtYe5XQx5f97oDKIEuIAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/cover-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/cover-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/cover-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 4/cover-1200.webp"
+  },
+  "Project 4/IMG_2262": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBQCdASoYACAAPu1iqE2ppaOiMAgBMB2JZgCxHyGBF5Y/se9Outue4flJ9iRMeLZhPjO4vAD9kkuqYh7+WSv3ABdb9TOqVv6bpcyk8BVdhsS9SOduDY/p95v+mpXtrHp2qhnzzXniuDbPj/TDtmlancsvlgEmyF+YM7TTOKqEdj8oU/CWGBHGzkecOq137YZxgz0PgZzAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2262-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2262-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2262-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2262-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2262-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2262-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2262-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2262-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2262-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 4/IMG_2262-1200.webp"
+  },
+  "Project 4/IMG_2266": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBQCdASoYACAAPuVgqE2pJaQiMAwBIByJQBYj8BBpvXpTA0OQHyYQZXdfdz9nFvzFrQTgAPfRSLqx8giuUgwf0zUjU92W3UOMjHbM4WNA165ZDf/OAXkDOgR+O3u8U8zL7+IVTGXTNgEG5VZusLJkT2sQ8Ar0PVc3MTASAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2266-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2266-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2266-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2266-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2266-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2266-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2266-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2266-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2266-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 4/IMG_2266-1200.webp"
+  },
+  "Project 4/IMG_2267": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwBQCdASoYACAAPt1apU2opSOiN/qoARAbiWUApxQWAiCpfyKUFq0W9WpBDc38QcesSJAPosgA/PPbmxpezb99eU4WLelwZubrWc06t9wxa7FGP36Ur62Mg4Om/Fj6OwAnyeTD/jrIVQ8LJTbc47djk1bPHo1AuOZC4ktU+wgHI04DbjINBIID/uyG5FmEWuP16wAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2267-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2267-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2267-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2267-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2267-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2267-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 4/IMG_2267-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 4/IMG_2267-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 4/IMG_2267-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 4/IMG_2267-1200.webp"
+  },
+  "Project 5/cover": {
+    "width": 2048,
+    "height": 1536,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoYABIAPu1kqE2ppaOiMAgBMB2JYwC3uBUsEHLcc/LzaBlkAADKtUW8gAPwskz+99GwYndbS3M2Vdfwl+E1iZuBnk8rJQy8vuQ4qrWuDHmrwP5XxVZKpUUclaIAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/cover-1200.avif"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 5/cover-2000.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/cover-1200.webp"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 5/cover-2000.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/cover-1200.jpg"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 5/cover-2000.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/cover-2000.webp"
+  },
+  "Project 5/IMG_2631": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBQCdASoYACAAPu1srlEppiQiqAqpMB2JYwC7ADTv80waLqFHIcxl94mtQptoVOTSAAD+77ldtSjXDgIuOrtt5cF8y6tBzDAbYG0InWvnpIHcSr81qt3i+mSqqQFzxCftCmbQ3HvIecCE4M56Fp5cgodgYSmYMazjnp6Gm2xDCX7mb56L/rMlweVM3tURRN867tCYAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2631-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2631-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2631-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2631-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2631-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2631-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2631-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2631-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2631-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/IMG_2631-1200.webp"
+  },
+  "Project 5/IMG_2633": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQBACdASoYACAAPu1srVEppaQiqAqpMB2JYgC90GlgEfaw/ZKrUMPPw2/X6qe7gAD+9gh2Q0vlM6dEfVQDU39lTjJ31dlZeXlSvlkGjsB2TalFJBmIa+9eLxQN2BOkWzAQW8itieqw5QV0FUCs1XF57p7YoZk/YG7cScn/7yRVOItwFAAAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2633-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2633-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2633-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2633-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2633-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2633-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2633-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2633-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2633-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/IMG_2633-1200.webp"
+  },
+  "Project 5/IMG_2635": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoYACAAPuFgp02opiOiMAwBEBwJZQC7ACHfTuSlmPb0r3HrRcDbthAAAP7qaFQipOCbfQzKeUy0a4bt5hJaxOULW9DzpcTj9ZJFu0Q+sorRBlhQNwUluuakWgqHI3Cxiw3Jm6SvX4Er8XzczwAAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2635-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2635-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2635-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2635-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2635-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2635-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2635-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2635-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2635-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/IMG_2635-1200.webp"
+  },
+  "Project 5/IMG_2770": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBQCdASoYACAAPu1ur1KppiQiqAgBMB2JQBOnKCp4B2Z3Z8hkNTYdzvntkd6A6fvxrwbH5sAA/u/Nv7TtZpzAYmuq/ve3yYeOPuB70yviV3swzRFBs6HRBNLpJbvuZWZ4TGXD0ikVb2HIIB2zfMlkToDB4W4+xjToucAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2770-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2770-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2770-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2770-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2770-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2770-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2770-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2770-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2770-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/IMG_2770-1200.webp"
+  },
+  "Project 5/IMG_2771": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACQBQCdASoYACAAPtVYok2oJSMiN+gBABqJZACdMwz6ADJ6BkvDcok08JfzFvMF/b8I1h6PwADJMQaqGaIK4yeyxP9H/T/iCnxaktISvGN8ZhAyCcK1ybrzhrops+MdDRTSv3rsdMwM9xjWYWMwKWe4TA95xB0T4x4pvELLcabvtX8RcLVTczP2Myw/QLYxs0GI2vXBX6n2arShq3TjXBjAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2771-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2771-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2771-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2771-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2771-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2771-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2771-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2771-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2771-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/IMG_2771-1200.webp"
+  },
+  "Project 5/IMG_2777": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBQCdASoYACAAPu1irVAppSQisBgIATAdiWMAwzQ0b0ol3qOFy1l+Xd5vvmWEtOQ0uHsAAP7eem6pLZst0WuwErFGdIpJ5nsSZ01wie36D9fHB3ZvBBQ1tK4voAn+IU8eD1DdEBxXRfayx6XHTqTbO7DditxUAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2777-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2777-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2777-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2777-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2777-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2777-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 5/IMG_2777-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 5/IMG_2777-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 5/IMG_2777-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 5/IMG_2777-1200.webp"
+  },
+  "Project 6/cover": {
+    "width": 2048,
+    "height": 1536,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoYABIAPt1ao02opSMiN/qoARAbiUAX7Wq4B6zgiQF4/febQAD+M8IYx5jNEknf6926yhb1bPgPnSs6LmoMrRna1g8FDFG4t4q5/jtQIZExzX1pzenrgg28BA2afOaBgNREvg67Uwn7vyNDvbc1cmsAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/cover-1200.avif"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 6/cover-2000.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/cover-1200.webp"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 6/cover-2000.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/cover-1200.jpg"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 6/cover-2000.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 6/cover-2000.webp"
+  },
+  "Project 6/IMG_2779": {
+    "width": 2048,
+    "height": 1536,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAwCdASoYABIAPu1qq08ppiOiMBgIATAdiWMAqPQNvK6JYf+DjIegAP3eOJ2zSGQEQs78nwyENcL6LoWh23Ewuy+UFr5Yz2y6O1e5+X3RwScJQ6dYRo4gOB1D3YIAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/IMG_2779-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/IMG_2779-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/IMG_2779-1200.avif"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 6/IMG_2779-2000.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/IMG_2779-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/IMG_2779-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/IMG_2779-1200.webp"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 6/IMG_2779-2000.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/IMG_2779-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/IMG_2779-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/IMG_2779-1200.jpg"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 6/IMG_2779-2000.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 6/IMG_2779-2000.webp"
+  },
+  "Project 6/IMG_2831": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQBACdASoYACAAPu1kqU2ppaOiMAgBMB2JQBadAkYy42BUAlNWDALXL542gTMpjAD8xlvdmmcgFDzbVXmbz3Nkb1nZ1pbJV+Tjr4Jc1N7nMwjzvGTD+XOOLk4nIcE35BxRwP3BF3poKW17CNv+nE3LPjxesjh9gyM/s0Bq4qNmO4AAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/IMG_2831-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/IMG_2831-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/IMG_2831-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/IMG_2831-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/IMG_2831-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/IMG_2831-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 6/IMG_2831-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 6/IMG_2831-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 6/IMG_2831-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 6/IMG_2831-1200.webp"
+  },
+  "Project 7/cover": {
+    "width": 2048,
+    "height": 1536,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwBQCdASoYABIAPu1eq02ppKQiMBgMATAdiWcAyrQQ2F9TqsabS80/Zze9hejmFLVHT5wAAP7ny8OkLbVFlK3ZIfP4kXQCyTBXZSzQScN2/AB8zkjGFGKqSFr9Z359lo+vWRAIC13+w4qAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/cover-1200.avif"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 7/cover-2000.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/cover-1200.webp"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 7/cover-2000.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/cover-1200.jpg"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 7/cover-2000.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 7/cover-2000.webp"
+  },
+  "Project 7/IMG_2936": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBQCdASoYACAAPulkrE2pJaSiMBgMASAdCUAXYAI8+o8qCrJmC1WH0NSmHAxaBnQQAPyPBwHtU8quY74GnPYopaJqVudRqp1Fno2rC3oEEdpxhU/RpTUvRmc/N59IQJJ3cXTlnL8aFhz+7ODrmn3rVOBdNEiABrI+CsFSEXsz6+OAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_2936-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_2936-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_2936-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_2936-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_2936-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_2936-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_2936-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_2936-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_2936-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 7/IMG_2936-1200.webp"
+  },
+  "Project 7/IMG_2952": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQBQCdASoYACAAPu1qr1CppaQiqAqpMB2JYgCdM1XBf9fJpYoHiJEmIpnBTScSKjpbuaR1EADGYqkXHi414eDzoTO/Uel5A7Lkwz0Oj98I9xo4QEpi1CfcW50+6Y1iMWWXv4JAZpRA1rGfiVbk0ZIkW1kVsT1OfzIhlQMNGmWIx7ySz26GfHaCoqlELy+yr4AAAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_2952-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_2952-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_2952-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_2952-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_2952-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_2952-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_2952-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_2952-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_2952-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 7/IMG_2952-1200.webp"
+  },
+  "Project 7/IMG_3047": {
+    "width": 2048,
+    "height": 1536,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBQCdASoYABIAPu1qrlEppaQiqAqpMB2JZwDM0A3Ola+JS/9hBBl59gRSl7Q/80wAAOHhiz/7HCMeIi6K4ZCWNR2FcQaZWUdsOvHFI9mOWoD7bdIcDeEHp668sTYLQPsoMFnXR/SSJ3q6uV8G7wepQvmn8o6i6VMTYAAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_3047-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_3047-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_3047-1200.avif"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 7/IMG_3047-2000.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_3047-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_3047-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_3047-1200.webp"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 7/IMG_3047-2000.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 7/IMG_3047-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 7/IMG_3047-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 7/IMG_3047-1200.jpg"
+        },
+        {
+          "w": 2000,
+          "src": "/images/Project 7/IMG_3047-2000.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 7/IMG_3047-2000.webp"
+  },
+  "Project 8/cover": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACwBQCdASoYACAAPu1orE+ppiQiMBgIATAdiWgAnTLQf/g1Ml6ssdvwEyL4SLCLlU0/6N6VerAA+dfAjL2Bj2uZRxPBQ+zVklYpc1Ao4llId8WztlFm6k+PCT6WAKS2t7Vtpsy6G2wZnncQu2nrRYvY0k+2TTqHbNFlt9jz2BiJuZErpaFS0zsrgEgHW8BG0//Jt7IJPBMu1fgA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/cover-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/cover-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/cover-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/cover-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/cover-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/cover-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/cover-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/cover-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/cover-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/cover-1200.webp"
+  },
+  "Project 8/IMG_3664": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBQCdASoYACAAPu1orE8ppiQiMBgIATAdiWIAqS1AAFpBVFH9+rJ6HV/rAbBEoqJAAP1Gz4u4xTZ+RhQuQyM/2+mlrIntP/l1oviawsguOTHmI+2kgeVucjP7OQ7/1wzIqyafeIgyDiFvjBUzGOD0Ji0v65PYvjVbvA5CeQVH9+Ysxo2HgQAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3664-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3664-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3664-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3664-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3664-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3664-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3664-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3664-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3664-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/IMG_3664-1200.webp"
+  },
+  "Project 8/IMG_3665": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBQCdASoYACAAPu1oq04ppiQiMAgBMB2JYgCsMuz/UAvatIgV614V2tNiAxywJt4AAO0oRL0C656qlmK0MehvluDzyKacDq9AhDyUvVp7KUly1GHQXHRhjDa8OomzbrKSKSEtRZTEPdUwkN2bwZ4Uq1N5Wi1XCqYb4ivnpsJyuh6OHsHYDWuPFd5ZDuAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3665-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3665-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3665-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3665-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3665-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3665-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3665-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3665-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3665-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/IMG_3665-1200.webp"
+  },
+  "Project 8/IMG_3666": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBQCdASoYACAAPu1sq1EppaOiqAqpMB2JYgCo9Asc4bs+VGr20SUy5mJD6jUMsoaqVAAA/symxiOJckciHy7iWIuAj6fA5fCWMtIxUyE1H3o+2/0Df6CZhXhvYl7gagDoxHMSRqPuI2Em8g8ZVjNVhL6awGce0ccjsX0HM1wzOpLRPXIjYcaAoHghWV+w0xe9AQAA",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3666-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3666-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3666-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3666-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3666-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3666-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3666-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3666-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3666-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/IMG_3666-1200.webp"
+  },
+  "Project 8/IMG_3667": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBQCdASoYACAAPtVao02oJSMiN/qoAQAaiWoAnTKEgrq/gGZwYYBW3d+qRKVnfnHdWV6b4ADWjQyFUYd4mnHIEuUvQXLs+TFy/nR4H4ZLe2bZgTQFjs69lK2CC9V7Umrf+mdWdV1IZ8Hv8TwMvcbNvo5dDBXJ5HJe2zbm3TLPL3mAyUWaxjortoi2X6jsATlCFyKwz51AAA==",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3667-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3667-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3667-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3667-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3667-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3667-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_3667-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_3667-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_3667-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/IMG_3667-1200.webp"
+  },
+  "Project 8/IMG_4022": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBQCdASoYACAAPu1orU8ppiQiMBgIATAdiUAXYA1vUxavmvmmpCtc8MKDpTd3J8cg3hcAAP7jf6yPHbinkgc/cDt9doBOCCK5kUMvyzuHZCZ1wZenwnLibjzVO/yzbq4c1UeBa3WqDmlzez2eYTxpFv3jHE4tEbswFt+WjkoFO/8w2wkhyGMAaadEfjI6jJfdHrgAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_4022-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_4022-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_4022-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_4022-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_4022-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_4022-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_4022-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_4022-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_4022-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/IMG_4022-1200.webp"
+  },
+  "Project 8/IMG_4126": {
+    "width": 1536,
+    "height": 2048,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwBQCdASoYACAAPu1mrU8ppaQiMBgIATAdiWUAy17ohNP8EOK54Xgtty12HxwJyssnoVYcdcAA/udAdXtOtz6zhxAXs2jYuYDNRnpUAh2jS35YRoA16C2Bb6AhpOrKrz75bySyMOPUQu5Jbp7ALbhIHVlLcomwlnAAZQRYt0X/XUd1B2hezppL6NIFAc0sO1iEejQAAAA=",
+    "variants": {
+      "avif": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_4126-400.avif"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_4126-800.avif"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_4126-1200.avif"
+        }
+      ],
+      "webp": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_4126-400.webp"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_4126-800.webp"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_4126-1200.webp"
+        }
+      ],
+      "jpg": [
+        {
+          "w": 400,
+          "src": "/images/Project 8/IMG_4126-400.jpg"
+        },
+        {
+          "w": 800,
+          "src": "/images/Project 8/IMG_4126-800.jpg"
+        },
+        {
+          "w": 1200,
+          "src": "/images/Project 8/IMG_4126-1200.jpg"
+        }
+      ]
+    },
+    "src": "/images/Project 8/IMG_4126-1200.webp"
+  }
+}
